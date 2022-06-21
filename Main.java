@@ -1,11 +1,8 @@
-import java.io.IOException;
-import java.util.Scanner;
 import java.util.Arrays;
 
 class Main {
   public static void main(String[] args) {
-    
-    Scanner scan=new Scanner(System.in);
+ 
    
     int tab1[]={0,1,1,0,0,0,1};
     int tab2[]=new int[tab1.length];
